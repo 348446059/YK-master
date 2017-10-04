@@ -1,0 +1,6 @@
+framework module Pods_YNLive {
+  umbrella header "Pods-YNLive-umbrella.h"
+
+  export *
+  module * { export * }
+}
